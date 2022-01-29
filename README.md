@@ -14,16 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 ![my flower](https://i2.milimaj.com/i/milliyet/75/0x410/5f14697655427f1424633c37.jpg)
 
-**Hello**
+**Hello** :shipit:
 
-My name is Zeynep,
+My name is Zeynep :tada:
 
 I'm thirthy years old 
 
 I'm *mathematician*
-
+```
 I like 
 - art,
 - nature 
 - animals
+```
 
