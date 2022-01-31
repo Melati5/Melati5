@@ -1,7 +1,7 @@
-- 👋 Hi, I’m **Zeynep**
+- 👋 Hi, I’m **Zeynep** 
 - 👀 I’m interested in art :violin: :art:
 - 🌱 I’m currently learning :computer:...
-- 💞️ I’m looking to collaborate on [prgrmcode](https://github.com/prgrmfl)
+- 💞️ I’m looking to collaborate on [prgrmfl](https://github.com/prgrmfl)
 - 📫 How to reach me [melati5](https://github.com/Melati5) 
 
 <!---
@@ -16,15 +16,14 @@ You can click the Preview link to take a look at your changes.
 
 **Hello** :shipit:
 
-My name is Zeynep :tada:
-
-I'm thirthy years old 
-
-I'm *mathematician*
+My name is Zeynep :tada: <br/>
+I'm thirthy years old <br/>
+I'm *mathematician* <br/>
 ```
-I like 
-- art,
+I like
+- art
 - nature 
-- animals
+- animals 
 ```
 
+I want to become a software developer 
