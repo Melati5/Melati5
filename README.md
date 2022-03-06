@@ -26,7 +26,7 @@ I like
 - animals
 - chess
 - flowers
-
+- animals
 ```
 
 I want to become a software developer 
