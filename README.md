@@ -23,7 +23,9 @@ I'm *mathematician* <br/>
 I like
 - art
 - nature 
-- animals 
+- animals
+- chess
+
 ```
 
 I want to become a software developer 
